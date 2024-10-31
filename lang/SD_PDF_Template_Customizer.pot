@@ -1,0 +1,1082 @@
+# SD PDF Template Customizer
+# Copyright (C) 2011
+# This file is distributed under the GPL v3.
+# Sverigedemokraterna IT <it@sverigedemokraterna.se>, 2011.
+#
+#: classes/SD_PDF_Template_Customizer_Moderation.php:298
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SD PDF Template Customizer\n"
+"Last-Translator: Sverigedemokraterna IT <it@sverigedemokraterna.se>\n"
+"Language-Team: Sverigedemokraterna IT <it@sverigedemokraterna.se>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:1623
+#, php-format
+msgid "%s.%s"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:620
+#: classes/SD_PDF_Template_Customizer_Templates.php:923
+#, php-format
+msgid "%sEdit the customization%s"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:103
+#, php-format
+msgid "%sEdit the template group%s"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:217
+#, php-format
+msgid "%sEdit the template%s"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:934
+#, php-format
+msgid "<a href=\"%s\">A new customization</a> based on %s was created by %s"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:820
+#, php-format
+msgid "<a href=\"%s\">Back to the fields overview.</a>"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:621
+#, php-format
+msgid "A clone of this customization has been created! %s."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:924
+#, php-format
+msgid "A customization based on this template has been created! %s."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:447
+msgid "A moderation request has been sent to the moderators. You can now return to the overview."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:311
+msgid "A moderation request has been sent."
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:390
+msgid "A new customization was created."
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:393
+msgid "A new template was created."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:835
+msgid "A placement is where on the PDF the text is placed. To remove a placement, set the page to zero."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:455
+msgid "A short description to help you remember what this customization is for."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:324
+msgid "Accept"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:287
+msgid "Accept this customization"
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:345
+msgid "Access roles"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:644
+msgid "Actions"
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:474
+msgid "Activity"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:511
+msgid "Activity log"
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:194 SD_PDF_Template_Customizer.php:195
+msgid "Admin"
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:246
+#, php-format
+msgid "All fonts in the %s directory have been imported."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:367
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:181
+#: classes/SD_PDF_Template_Customizer_Templates.php:329
+#: classes/SD_PDF_Template_Customizer_Templates.php:660
+msgid "Apply"
+msgstr ""
+
+#: classes/Template_Field.php:589
+msgid "Block of text"
+msgstr ""
+
+#: classes/Template_Field.php:1186
+msgid "Centered"
+msgstr ""
+
+#: classes/Template_Field.php:416
+msgid "Clear the image"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:720
+msgid "Click on the preview image below to view the PDF."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:318
+#: classes/SD_PDF_Template_Customizer_Templates.php:652
+msgid "Clone"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:615
+#: classes/SD_PDF_Template_Customizer_Templates.php:179
+#: classes/SD_PDF_Template_Customizer_Templates.php:559
+#, php-format
+msgid "Clone of %s"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:654
+msgid "Clone this customization"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:420
+#, php-format
+msgid "Copy: Customization, %s, is waiting for approval."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:414
+#: classes/SD_PDF_Template_Customizer_Customizations.php:428
+#: classes/SD_PDF_Template_Customizer_Templates.php:398
+#, php-format
+msgid "Could not find id %s."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:651
+msgid "Create a copy of this finished customization and make it your own."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:965
+msgid "Create a new customization using this template"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:374
+#: classes/SD_PDF_Template_Customizer_Templates.php:379
+msgid "Create a new template"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:691
+#: classes/SD_PDF_Template_Customizer_Templates.php:708
+msgid "Create a new template field"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:211
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:216
+msgid "Create a new template group"
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:489
+msgid "Create the customization and then edit it to fill in your own values on the resulting PDF."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:301
+#, php-format
+msgid "Created on <em>%s</em> by <em>%s</em> from the template <em>%s</em>"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:304
+#, php-format
+msgid "Created on <em>%s</em> from the template <em>%s</em>"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:130
+#, php-format
+msgid "Created: %s by %s"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:436
+#, php-format
+msgid "Customization #%s is not editable."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:205
+#, php-format
+msgid "Customization <em>%s</em> deleted."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:220
+#, php-format
+msgid "Customization <em>%s</em> has been made editable."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:744
+#, php-format
+msgid "Customization created %s"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:664
+msgid "Customization fields"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:107
+msgid "Customization overview"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:61
+#: classes/SD_PDF_Template_Customizer_Customizations.php:62
+#: classes/SD_PDF_Template_Customizer_Customizations.php:81
+#: classes/SD_PDF_Template_Customizer_Customizations.php:82
+msgid "Customizations"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:352
+msgid "Customizations created from the templates below require moderation before being converted into PDFs."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:320
+msgid "Decide if the above customization is acceptable and press the appropriate button. An e-mail will be sent to the user containing your choice of action."
+msgstr ""
+
+#: classes/Template_Field.php:605
+msgid "Default font size."
+msgstr ""
+
+#: classes/Template_Field.php:597
+msgid "Default font."
+msgstr ""
+
+#: classes/Template_Field.php:705 classes/Template_Field.php:759
+msgid "Default text"
+msgstr ""
+
+#: classes/Template_Field.php:706 classes/Template_Field.php:760
+msgid "Default text that is used on newly-created customizations."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:359
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:174
+#: classes/SD_PDF_Template_Customizer_Templates.php:319
+#: classes/SD_PDF_Template_Customizer_Templates.php:653
+msgid "Delete"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:330
+msgid "Deny"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:303
+msgid "Deny this customization"
+msgstr ""
+
+#: classes/Template_Field.php:139
+msgid "Describe the field to the user."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:414
+#: classes/Template_Field.php:138
+msgid "Description"
+msgstr ""
+
+#: classes/Template_Field.php:268
+#, php-format
+msgid "Description: <em>%s</em>"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:358
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:173
+#: classes/SD_PDF_Template_Customizer_Templates.php:317
+#: classes/SD_PDF_Template_Customizer_Templates.php:651
+msgid "Do nothing"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:259
+msgid "Download PDF"
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:356
+msgid "E-mail"
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:281
+msgid "E-mail signature"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:117
+#: classes/SD_PDF_Template_Customizer_Customizations.php:278
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:63
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:136
+#: classes/SD_PDF_Template_Customizer_Templates.php:87
+#: classes/SD_PDF_Template_Customizer_Templates.php:268
+#: classes/SD_PDF_Template_Customizer_Templates.php:611
+msgid "Edit"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:116
+msgid "Edit customization"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:94
+msgid "Edit field"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:86
+msgid "Edit template"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:93
+msgid "Edit template field"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:62
+msgid "Edit template group"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:279
+msgid "Edit the customization"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:142
+msgid "Edit the moderators associated with this template group"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:637
+msgid "Edit this template field"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:159
+msgid "Edit this template group"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:813
+#, php-format
+msgid "Editing a field from template: <em>%s</em>"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:544
+#, php-format
+msgid "Editing fields for template: <em>%s</em>"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:345
+#, php-format
+msgid "Editing the moderators for the template group <em>%s</em>."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:598
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:233
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:300
+#: classes/SD_PDF_Template_Customizer_Templates.php:538
+#: classes/SD_PDF_Template_Customizer_Templates.php:769
+#: classes/SD_PDF_Template_Customizer_Templates.php:913
+#, php-format
+msgid "Error. Could not find id %s."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:606
+#, php-format
+msgid "Error. Could not preview id %s."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:88
+#: classes/SD_PDF_Template_Customizer_Customizations.php:89
+msgid "Everybody's customizations"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:570
+msgid "Finish editing and send moderation request"
+msgstr ""
+
+#: classes/Template_Field.php:596 classes/Template_Field.php:1193
+msgid "Font"
+msgstr ""
+
+#: classes/Template_Field.php:617 classes/Template_Field.php:1216
+msgid "Font color"
+msgstr ""
+
+#: classes/Template_Field.php:618 classes/Template_Field.php:1217
+msgid "Font color as RBG. Black is 0,0,0 and white is 255,255,255."
+msgstr ""
+
+#: classes/Template_Field.php:604 classes/Template_Field.php:1203
+msgid "Font size"
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:224 SD_PDF_Template_Customizer.php:225
+msgid "Fonts"
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:263
+msgid "Fonts can be imported / converted by placing them in the <em>classes/font_import</em> directory."
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:493
+msgid "For more help, read the instructions on each screen."
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:221
+msgid "General"
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:220
+msgid "General settings"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:89
+#, php-format
+msgid "Group template <em>%s</em> deleted."
+msgstr ""
+
+#: classes/Template_Field.php:185 classes/Template_Field.php:977
+msgid "Height"
+msgstr ""
+
+#: classes/Template_Field.php:978
+msgid "Height of object on page, in mm"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:514
+msgid "If ThreeWP Activity Monitor is installed and users are allowed to view each other's customizations, a new log entry can be inserted by using this button."
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:427
+msgid "If ThreeWP Activity Monitor was installed a list of template activity could be displayed."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:689
+msgid "If javascript is enabled: fields can be reordered by dragging them up and down."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:485
+msgid "If you have ThreeWP Activity Monitor installed, the newest item in the log informs users of this template."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:292
+msgid "If you wish to include a personal message to the user that will be sent along with the notification, use this text box."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:697
+msgid "Image"
+msgstr ""
+
+#: classes/Template_Field.php:449
+#, php-format
+msgid "Image: %s"
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:257
+msgid "Import fonts"
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:244
+#, php-format
+msgid "Imported font %s!"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:393
+#: classes/SD_PDF_Template_Customizer_Moderation.php:158
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:201
+#: classes/SD_PDF_Template_Customizer_Templates.php:362
+#: classes/SD_PDF_Template_Customizer_Templates.php:680
+msgid "Info"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:181
+msgid "Invalid ID specified."
+msgstr ""
+
+#: classes/Template_Field.php:1182
+msgid "Justification"
+msgstr ""
+
+#: classes/Template_Field.php:1187
+msgid "Justified"
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:470
+msgid "Latest activity"
+msgstr ""
+
+#: classes/Template_Field.php:1184
+msgid "Left"
+msgstr ""
+
+#: classes/Template_Field.php:588
+msgid "Line of text"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:546
+#: classes/SD_PDF_Template_Customizer_Customizations.php:634
+msgid "Loading image..."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:360
+msgid "Make editable"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:101
+#: classes/SD_PDF_Template_Customizer_Templates.php:262
+msgid "Manage fields"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:100
+msgid "Managing template fields"
+msgstr ""
+
+#: classes/Template_Field.php:169 classes/Template_Field.php:177
+msgid "Measured in mm"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:293
+msgid "Message"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:40
+#: classes/SD_PDF_Template_Customizer_Moderation.php:41
+msgid "Moderation"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:58
+msgid "Moderation overview"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:68
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:142
+msgid "Moderators"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:391
+#: classes/SD_PDF_Template_Customizer_Customizations.php:456
+#: classes/SD_PDF_Template_Customizer_Moderation.php:156
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:200
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:243
+#: classes/SD_PDF_Template_Customizer_Templates.php:360
+#: classes/SD_PDF_Template_Customizer_Templates.php:406
+#: classes/SD_PDF_Template_Customizer_Templates.php:679
+#: classes/Template_Field.php:129
+msgid "Name"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:482
+#, php-format
+msgid "New template created: %s"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:176
+msgid "No ID specified."
+msgstr ""
+
+#: classes/Template_Field.php:1195
+msgid "No font"
+msgstr ""
+
+#: classes/Template_Field.php:448
+msgid "No image uploaded"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:152
+msgid "No one has created any customizations yet."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:444
+msgid "No source PDF selected"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:425
+msgid "No template group"
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:377
+#: classes/SD_PDF_Template_Customizer_Customizations.php:108
+#: classes/SD_PDF_Template_Customizer_Moderation.php:59
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:54
+#: classes/SD_PDF_Template_Customizer_Templates.php:76
+msgid "Overview"
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:351
+#: classes/SD_PDF_Template_Customizer_Customizations.php:258
+msgid "PDF"
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:178 SD_PDF_Template_Customizer.php:179
+msgid "PDF Template Customizer"
+msgstr ""
+
+#: classes/Template_Field.php:926
+msgid "Page"
+msgstr ""
+
+#: classes/Template_Field.php:1097
+#, php-format
+msgid "Page %s, x,y: (%s, %s) w: %s, h: %s"
+msgstr ""
+
+#: classes/Template_Field.php:1228
+#, php-format
+msgid "Page %s, x,y: (%s, %s) w: %s, h: %s, j: %s, color: %s"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:856
+msgid "Placement ID"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:833
+msgid "Placements"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:122
+#: classes/SD_PDF_Template_Customizer_Customizations.php:265
+#: classes/SD_PDF_Template_Customizer_Templates.php:106
+#: classes/SD_PDF_Template_Customizer_Templates.php:254
+#: classes/SD_PDF_Template_Customizer_Templates.php:718
+msgid "Preview"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:266
+msgid "Preview PDF as image"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:121
+msgid "Preview customization"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:105
+msgid "Preview template"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:293
+msgid "Preview the original template"
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:483
+msgid "Quick guide"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:336
+msgid "Redo"
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:290
+msgid "Remove PDF annotations"
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:289
+msgid "Remove the PDF annotations from generated files. Used for sending PDFs to print24.com."
+msgstr ""
+
+#: classes/Template_Field.php:411
+#, php-format
+msgid "Remove the uploaded image: %s%s%s"
+msgstr ""
+
+#: classes/Template_Field.php:1185
+msgid "Right"
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:315
+msgid "Save settings"
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:305
+msgid "See all customizations"
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:297
+msgid "See the plugin"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:347
+msgid "Select the users which will moderate all the customizations for the templates placed in this group."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:383
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:199
+#: classes/SD_PDF_Template_Customizer_Templates.php:346
+#: classes/SD_PDF_Template_Customizer_Templates.php:678
+msgid "Selected"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:309
+msgid "Send back to user for editing"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:565
+msgid "Send for approval"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:254
+#: classes/SD_PDF_Template_Customizer_Templates.php:300
+msgid "Show a preview of this template"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:163
+msgid "Showing customizations in group:"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:132
+#: classes/SD_PDF_Template_Customizer_Templates.php:141
+msgid "Showing templates in group:"
+msgstr ""
+
+#: classes/Template_Field.php:1204
+msgid "Size of the font in points."
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:491
+msgid "Some templates require moderation before being allowed to be downloaded / viewed as a PDF."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:430
+msgid "Source PDF"
+msgstr ""
+
+#: SD_PDF_Template_Customizer_Base.php:414
+msgid "Super admin"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:201
+#, php-format
+msgid "Template <em>%s</em> deleted."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:210
+#, php-format
+msgid "Template created %s"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:219
+#, php-format
+msgid "Template created! %s"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:572
+#, php-format
+msgid "Template field <em>%s</em> deleted."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:581
+#, php-format
+msgid "Template field created %s"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:586
+msgid "Template field created!"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:423
+msgid "Template group"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:98
+#, php-format
+msgid "Template group created %s"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:105
+#, php-format
+msgid "Template group created! %s"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:67
+msgid "Template group moderators"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:53
+msgid "Template group overview"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:35
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:36
+msgid "Template groups"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:75
+msgid "Template overview"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:56
+#: classes/SD_PDF_Template_Customizer_Templates.php:57
+msgid "Templates"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:698
+msgid "Text area"
+msgstr ""
+
+#: classes/Template_Field.php:791
+#, php-format
+msgid "Text area. Font: %s, size %s, color %s."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:699
+msgid "Text field"
+msgstr ""
+
+#: classes/Template_Field.php:738
+#, php-format
+msgid "Text field. Font: %s, size %s, color %s."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:498
+msgid "The customization has been updated!"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:338
+msgid "The customization is not acceptable and must be edited before being accepted."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:951
+msgid "The following fields can be modified:"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:150
+#, php-format
+msgid "The group has %s moderators."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:268
+msgid "The message could not be sent to the user. Please try again."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:246
+msgid "The message was sent to the user! The moderation request has been deleted and you can now go back to the moderation overview."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:235
+msgid "The moderator left you this message:"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:316
+msgid "The moderators for this template group have been updated!"
+msgstr ""
+
+#: classes/Template_Field.php:130
+msgid "The name of the field, as displayed to the user."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:666
+msgid "The settings below were used to create this customization."
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:329
+msgid "The settings have been updated."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:799
+msgid "The template field has been updated!"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:261
+msgid "The template group has been updated!"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:467
+msgid "The template has been updated!"
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:487
+msgid "The templates are available in the templates menu. Browse the template groups and then preview a template to see it in a larger format."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:114
+msgid "There are no template groups available."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:309
+msgid "This customization has not yet been approved."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:422
+msgid "This is a copy of the mail sent to the moderator."
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:280
+msgid "This is the signature text that is appended to all outgoing e-mails."
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:485
+msgid "This plugin allows users to create custom, printable, PDFs from admin-designed templates."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:316
+#, php-format
+msgid "This template is currently broken. Please inform the administrator that the source PDF for template %s is missing!"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:518
+msgid "This will inform the users visiting the main menu of SD PDF Template Customizer that there is a new template available for use."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:392
+#: classes/SD_PDF_Template_Customizer_Moderation.php:157
+#: classes/SD_PDF_Template_Customizer_Templates.php:361
+msgid "Thumbnail"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:323
+#: classes/SD_PDF_Template_Customizer_Moderation.php:124
+#: classes/SD_PDF_Template_Customizer_Templates.php:287
+#: classes/SD_PDF_Template_Customizer_Templates.php:728
+#: classes/SD_PDF_Template_Customizer_Templates.php:945
+#, php-format
+msgid "Thumbnail image should be seen here"
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:473
+msgid "Timestamp"
+msgstr ""
+
+#: classes/Template_Field.php:586
+msgid "Type"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:694
+msgid "Type of field to create"
+msgstr ""
+
+#: classes/Template_Field.php:585
+msgid "Type of text input."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:161
+#: classes/SD_PDF_Template_Customizer_Templates.php:132
+#: classes/SD_PDF_Template_Customizer_Templates.php:133
+#: classes/SD_PDF_Template_Customizer_Templates.php:349
+msgid "Uncategorized"
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:228
+msgid "Uninstall"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:527
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:274
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:340
+#: classes/SD_PDF_Template_Customizer_Templates.php:491
+#: classes/SD_PDF_Template_Customizer_Templates.php:895
+msgid "Update"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:498
+msgid "Update activity log"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:423
+#, php-format
+msgid "User %s has created a new customization, <em>%s</em> from the template <em>%s</em>, that is awaiting moderation. Please log in and review the request."
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:296
+msgid "User level needed to access the plugin."
+msgstr ""
+
+#: SD_PDF_Template_Customizer.php:304
+msgid "User level needed to see all customizations, not just the user's own."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:68
+#: classes/SD_PDF_Template_Customizer_Moderation.php:109
+msgid "View"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:67
+msgid "View moderation request"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:110
+msgid "View this customization"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:577
+msgid "When you have finished editing and previewing the customization, you can request that a moderator approves it. This will disable any further editing."
+msgstr ""
+
+#: classes/Template_Field.php:192 classes/Template_Field.php:964
+msgid "Width"
+msgstr ""
+
+#: classes/Template_Field.php:965
+msgid "Width of object on page, in mm"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:356
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:171
+#: classes/SD_PDF_Template_Customizer_Templates.php:315
+#: classes/SD_PDF_Template_Customizer_Templates.php:649
+msgid "With the selected rows"
+msgstr ""
+
+#: classes/Template_Field.php:938
+msgid "X"
+msgstr ""
+
+#: classes/Template_Field.php:170
+msgid "X offset"
+msgstr ""
+
+#: classes/Template_Field.php:939
+msgid "X position on page in mm"
+msgstr ""
+
+#: classes/Template_Field.php:951
+msgid "Y"
+msgstr ""
+
+#: classes/Template_Field.php:178
+msgid "Y offset"
+msgstr ""
+
+#: classes/Template_Field.php:952
+msgid "Y position on page in mm"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:194
+msgid "You have no moderation rights for this request."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:154
+msgid "You have not created any customizations yet. Browse the templates for a suitable template from which to create a customization."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:222
+#, php-format
+msgid "Your customization, %s, must be edited!"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:216
+#, php-format
+msgid "Your customization, %s, was accepted!"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:228
+#, php-format
+msgid "Your customization, %s, was denied!"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:217
+#, php-format
+msgid "Your customization, <em>%s</em>, was accepted. You can now log in and print the customized PDF!"
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:229
+#, php-format
+msgid "Your customization, <em>%s</em>, was denied and has been removed from the database."
+msgstr ""
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:223
+#, php-format
+msgid "Your customization, <em>%s</em>, was not acceptable and must be edited before being accepted."
+msgstr ""

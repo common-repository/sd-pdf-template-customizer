@@ -1,0 +1,1115 @@
+# SD PDF Template Customizer
+# Copyright (C) 2011
+# This file is distributed under the GPL v3.
+# Sverigedemokraterna IT <it@sverigedemokraterna.se>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: SD PDF Template Customizer\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Edward Plainview <edward@plainview.se>\n"
+"Language-Team: Sverigedemokraterna IT <it@sverigedemokraterna.se>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:1623
+#, php-format
+msgid "%s.%s"
+msgstr "%s.%s"
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:620
+#: classes/SD_PDF_Template_Customizer_Templates.php:923
+#, php-format
+msgid "%sEdit the customization%s"
+msgstr "%sRediga anpassningen%s"
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:103
+#, php-format
+msgid "%sEdit the template group%s"
+msgstr "%sRedigera mallgruppen%s"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:217
+#, php-format
+msgid "%sEdit the template%s"
+msgstr "%sRedigera mallen%s"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:934
+#, php-format
+msgid "<a href=\"%s\">A new customization</a> based on %s was created by %s"
+msgstr "<a href=\"%s\">En ny anpassning</a> baserad på %s skapades av %s"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:820
+#, php-format
+msgid "<a href=\"%s\">Back to the fields overview.</a>"
+msgstr "<a href=\"%s\">Tillbaka till fältöversikten.</a>"
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:621
+#, php-format
+msgid "A clone of this customization has been created! %s."
+msgstr "Anpassningen har klonats! %s."
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:924
+#, php-format
+msgid "A customization based on this template has been created! %s."
+msgstr "En anpassning baserad på den här mallen har skapats! %s."
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:447
+msgid "A moderation request has been sent to the moderators. You can now return to the overview."
+msgstr "En begäran om moderering har skickats till moderatorerna. Du kan nu återgå till översikten."
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:311
+msgid "A moderation request has been sent."
+msgstr "En modereringsbegäran har skickats."
+
+#: SD_PDF_Template_Customizer.php:390
+msgid "A new customization was created."
+msgstr "En ny anpassning har skapats."
+
+#: SD_PDF_Template_Customizer.php:393
+msgid "A new template was created."
+msgstr "En ny mall har skapats."
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:835
+msgid "A placement is where on the PDF the text is placed. To remove a placement, set the page to zero."
+msgstr "En placering anger var på PDFen texten läggs. För att ta bort placeringen, sätt sidnumret till noll."
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:455
+msgid "A short description to help you remember what this customization is for."
+msgstr "En kort beskrivning som hjälper dig komma ihåg vad anpassningen har för ändamål."
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:324
+msgid "Accept"
+msgstr "Godkänn"
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:287
+msgid "Accept this customization"
+msgstr "Godkänn anpassningen"
+
+#: SD_PDF_Template_Customizer.php:345
+msgid "Access roles"
+msgstr "Åtkomstroller"
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:644
+msgid "Actions"
+msgstr "Åtgärder"
+
+#: SD_PDF_Template_Customizer.php:474
+msgid "Activity"
+msgstr "Aktivitet"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:511
+msgid "Activity log"
+msgstr "Aktivitetslogg"
+
+#: SD_PDF_Template_Customizer.php:194
+#: SD_PDF_Template_Customizer.php:195
+msgid "Admin"
+msgstr "Admin"
+
+#: SD_PDF_Template_Customizer.php:246
+#, php-format
+msgid "All fonts in the %s directory have been imported."
+msgstr "Alla typsnitt i %s mappen har importerats."
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:367
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:181
+#: classes/SD_PDF_Template_Customizer_Templates.php:329
+#: classes/SD_PDF_Template_Customizer_Templates.php:660
+msgid "Apply"
+msgstr "Verkställ"
+
+#: classes/Template_Field.php:589
+msgid "Block of text"
+msgstr "Textruta"
+
+#: classes/Template_Field.php:1186
+msgid "Centered"
+msgstr "Centrerat"
+
+#: classes/Template_Field.php:416
+msgid "Clear the image"
+msgstr "Ta bort bilden"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:720
+msgid "Click on the preview image below to view the PDF."
+msgstr "Klicka på bilden undertill för att visa PDF:en."
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:318
+#: classes/SD_PDF_Template_Customizer_Templates.php:652
+msgid "Clone"
+msgstr "Klona"
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:615
+#: classes/SD_PDF_Template_Customizer_Templates.php:179
+#: classes/SD_PDF_Template_Customizer_Templates.php:559
+#, php-format
+msgid "Clone of %s"
+msgstr "Klonad från %s"
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:654
+msgid "Clone this customization"
+msgstr "Klona anpassningen"
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:420
+#, php-format
+msgid "Copy: Customization, %s, is waiting for approval."
+msgstr "Kopia: Anpassning, %s, väntar på godkännande."
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:414
+#: classes/SD_PDF_Template_Customizer_Customizations.php:428
+#: classes/SD_PDF_Template_Customizer_Templates.php:398
+#, php-format
+msgid "Could not find id %s."
+msgstr "Kunde inte hitta id %s."
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:651
+msgid "Create a copy of this finished customization and make it your own."
+msgstr "Skapa en kopia av anpassningen och gör den till din egen."
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:965
+msgid "Create a new customization using this template"
+msgstr "Skapa en ny anpassning från den här mallen"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:374
+#: classes/SD_PDF_Template_Customizer_Templates.php:379
+msgid "Create a new template"
+msgstr "Skapa en ny mall"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:691
+#: classes/SD_PDF_Template_Customizer_Templates.php:708
+msgid "Create a new template field"
+msgstr "Skapa ett nytt fält"
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:211
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:216
+msgid "Create a new template group"
+msgstr "Skapa en ny mallgrupp"
+
+#: SD_PDF_Template_Customizer.php:489
+msgid "Create the customization and then edit it to fill in your own values on the resulting PDF."
+msgstr "Efter anpassningen har skapats kan dina egna texter läggas på den skapade PDF:en."
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:301
+#, php-format
+msgid "Created on <em>%s</em> by <em>%s</em> from the template <em>%s</em>"
+msgstr "Skapades <em>%s</em> av <em>%s</em> från mallen <em>%s</em>"
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:304
+#, php-format
+msgid "Created on <em>%s</em> from the template <em>%s</em>"
+msgstr "Skapades <em>%s</em> från mallen <em>%s</em>"
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:130
+#, php-format
+msgid "Created: %s by %s"
+msgstr "Skapades %s av %s"
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:436
+#, php-format
+msgid "Customization #%s is not editable."
+msgstr "Anpassning #%s får inte redigeras."
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:205
+#, php-format
+msgid "Customization <em>%s</em> deleted."
+msgstr "Anpassning <em>%s</em> har tagits bort."
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:220
+#, php-format
+msgid "Customization <em>%s</em> has been made editable."
+msgstr "Anpassningen <em>%s</em> har gjorts redigerbar."
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:744
+#, php-format
+msgid "Customization created %s"
+msgstr "Anpassning skapad %s"
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:664
+msgid "Customization fields"
+msgstr "Anpassade fält"
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:107
+msgid "Customization overview"
+msgstr "Anpassningsöversikt"
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:61
+#: classes/SD_PDF_Template_Customizer_Customizations.php:62
+#: classes/SD_PDF_Template_Customizer_Customizations.php:81
+#: classes/SD_PDF_Template_Customizer_Customizations.php:82
+msgid "Customizations"
+msgstr "Anpassningar"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:352
+msgid "Customizations created from the templates below require moderation before being converted into PDFs."
+msgstr "Anpassningar som skapas från nedanstående mallar behöver godkännas innan de får laddas hem som PDF:er."
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:320
+msgid "Decide if the above customization is acceptable and press the appropriate button. An e-mail will be sent to the user containing your choice of action."
+msgstr "Bestäm ifall ovanstående anpassning är acceptabel och klicka på respektive knapp. Ett e-postmeddelande kommer att skickas till användaren med ditt beslut."
+
+#: classes/Template_Field.php:605
+msgid "Default font size."
+msgstr "Standard typsnittstorlek"
+
+#: classes/Template_Field.php:597
+msgid "Default font."
+msgstr "Standardtypsnitt."
+
+#: classes/Template_Field.php:705
+#: classes/Template_Field.php:759
+msgid "Default text"
+msgstr "Standardtext"
+
+#: classes/Template_Field.php:706
+#: classes/Template_Field.php:760
+msgid "Default text that is used on newly-created customizations."
+msgstr "Standardtext som används på nyskapade anpassningar."
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:359
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:174
+#: classes/SD_PDF_Template_Customizer_Templates.php:319
+#: classes/SD_PDF_Template_Customizer_Templates.php:653
+msgid "Delete"
+msgstr "Ta bort"
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:330
+msgid "Deny"
+msgstr "Neka"
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:303
+msgid "Deny this customization"
+msgstr "Neka anpassningen"
+
+#: classes/Template_Field.php:139
+msgid "Describe the field to the user."
+msgstr "Beskriv fältet för användaren."
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:414
+#: classes/Template_Field.php:138
+msgid "Description"
+msgstr "Beskrivning"
+
+#: classes/Template_Field.php:268
+#, php-format
+msgid "Description: <em>%s</em>"
+msgstr "Beskrivning: <em>%s</em>"
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:358
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:173
+#: classes/SD_PDF_Template_Customizer_Templates.php:317
+#: classes/SD_PDF_Template_Customizer_Templates.php:651
+msgid "Do nothing"
+msgstr "Gör inget"
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:259
+msgid "Download PDF"
+msgstr "Ladda hem PDF"
+
+#: SD_PDF_Template_Customizer.php:356
+msgid "E-mail"
+msgstr "E-post"
+
+#: SD_PDF_Template_Customizer.php:281
+msgid "E-mail signature"
+msgstr "E-postsignatur"
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:117
+#: classes/SD_PDF_Template_Customizer_Customizations.php:278
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:63
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:136
+#: classes/SD_PDF_Template_Customizer_Templates.php:87
+#: classes/SD_PDF_Template_Customizer_Templates.php:268
+#: classes/SD_PDF_Template_Customizer_Templates.php:611
+msgid "Edit"
+msgstr "Redigera"
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:116
+msgid "Edit customization"
+msgstr "Redigera anpassning"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:94
+msgid "Edit field"
+msgstr "Redigera fält"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:86
+msgid "Edit template"
+msgstr "Redigera mall"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:93
+msgid "Edit template field"
+msgstr "Redigera mallfält"
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:62
+msgid "Edit template group"
+msgstr "Redigera mallgrupp"
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:279
+msgid "Edit the customization"
+msgstr "Redigera anpassningen"
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:142
+msgid "Edit the moderators associated with this template group"
+msgstr "Ändra moderatorerna som hör till mallgruppen"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:637
+msgid "Edit this template field"
+msgstr "Redigera mallfält"
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:159
+msgid "Edit this template group"
+msgstr "Redigera mallgruppen"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:813
+#, php-format
+msgid "Editing a field from template: <em>%s</em>"
+msgstr "Redigerar ett fält från mallen: <em>%s</em>"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:544
+#, php-format
+msgid "Editing fields for template: <em>%s</em>"
+msgstr "Redigerar fälten från mallen: <em>%s</em>"
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:345
+#, php-format
+msgid "Editing the moderators for the template group <em>%s</em>."
+msgstr "Redigerar moderatorerna för mallgruppen <em>%s</em>."
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:598
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:233
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:300
+#: classes/SD_PDF_Template_Customizer_Templates.php:538
+#: classes/SD_PDF_Template_Customizer_Templates.php:769
+#: classes/SD_PDF_Template_Customizer_Templates.php:913
+#, php-format
+msgid "Error. Could not find id %s."
+msgstr "Fel. Kunde inte hitta id %s."
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:606
+#, php-format
+msgid "Error. Could not preview id %s."
+msgstr "Fel. Kunde inte förhandsgranska id %s."
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:88
+#: classes/SD_PDF_Template_Customizer_Customizations.php:89
+msgid "Everybody's customizations"
+msgstr "Allas anpassningar"
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:570
+msgid "Finish editing and send moderation request"
+msgstr "Slutför redigeringen och skicka modereringsbegäran"
+
+#: classes/Template_Field.php:596
+#: classes/Template_Field.php:1193
+msgid "Font"
+msgstr "Typsnitt"
+
+#: classes/Template_Field.php:617
+#: classes/Template_Field.php:1216
+msgid "Font color"
+msgstr "Typsnittsfärg"
+
+#: classes/Template_Field.php:618
+#: classes/Template_Field.php:1217
+msgid "Font color as RBG. Black is 0,0,0 and white is 255,255,255."
+msgstr "Typsnittsfärg som RBG-värden. Svart är 0,0,0 och vit är 255,255,255."
+
+#: classes/Template_Field.php:604
+#: classes/Template_Field.php:1203
+msgid "Font size"
+msgstr "Typsnittstorlek"
+
+#: SD_PDF_Template_Customizer.php:224
+#: SD_PDF_Template_Customizer.php:225
+msgid "Fonts"
+msgstr "Typsnitt"
+
+#: SD_PDF_Template_Customizer.php:263
+msgid "Fonts can be imported / converted by placing them in the <em>classes/font_import</em> directory."
+msgstr "Typsnitt kan importeras / konverteras om de läggs i <em>classes/font_import</em> mappen."
+
+#: SD_PDF_Template_Customizer.php:493
+msgid "For more help, read the instructions on each screen."
+msgstr "För mer hjälp, läs instruktionerna på respektive sida."
+
+#: SD_PDF_Template_Customizer.php:221
+msgid "General"
+msgstr "Allmänt"
+
+#: SD_PDF_Template_Customizer.php:220
+msgid "General settings"
+msgstr "Allmänna inställningar"
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:89
+#, php-format
+msgid "Group template <em>%s</em> deleted."
+msgstr "Mallgruppen <em>%s</em> har tagits bort."
+
+#: classes/Template_Field.php:185
+#: classes/Template_Field.php:977
+msgid "Height"
+msgstr "Höjd"
+
+#: classes/Template_Field.php:978
+msgid "Height of object on page, in mm"
+msgstr "Objektets höjd på sidan, i mm."
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:514
+msgid "If ThreeWP Activity Monitor is installed and users are allowed to view each other's customizations, a new log entry can be inserted by using this button."
+msgstr "Om ThreeWP Activity Monitor är installerat och användarna får titta på varandras anpassningar, kan en ny logghändelse skapas med denna knapp."
+
+#: SD_PDF_Template_Customizer.php:427
+msgid "If ThreeWP Activity Monitor was installed a list of template activity could be displayed."
+msgstr "Om ThreeWP Activity Monitor fanns skulle en lista över mallaktivitet visas här."
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:689
+msgid "If javascript is enabled: fields can be reordered by dragging them up and down."
+msgstr "Om javascript är igång: ordningen på fältet kan ändras genom att dra fälten upp och ner med musen."
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:485
+msgid "If you have ThreeWP Activity Monitor installed, the newest item in the log informs users of this template."
+msgstr "Om du har ThreeWP Activity Monitor installerat,"
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:292
+msgid "If you wish to include a personal message to the user that will be sent along with the notification, use this text box."
+msgstr "Om du vill lämna ett meddelande till användaren i e-postmeddelandet, skriv det i textrutan."
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:697
+msgid "Image"
+msgstr "Bild"
+
+#: classes/Template_Field.php:449
+#, php-format
+msgid "Image: %s"
+msgstr "Bild: %s"
+
+#: SD_PDF_Template_Customizer.php:257
+msgid "Import fonts"
+msgstr "Importera typsnitt"
+
+#: SD_PDF_Template_Customizer.php:244
+#, php-format
+msgid "Imported font %s!"
+msgstr "Typsnittet %s har importerats!"
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:393
+#: classes/SD_PDF_Template_Customizer_Moderation.php:158
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:201
+#: classes/SD_PDF_Template_Customizer_Templates.php:362
+#: classes/SD_PDF_Template_Customizer_Templates.php:680
+msgid "Info"
+msgstr "Info"
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:181
+msgid "Invalid ID specified."
+msgstr "Ogiltig ID."
+
+#: classes/Template_Field.php:1182
+msgid "Justification"
+msgstr "Justifiering"
+
+#: classes/Template_Field.php:1187
+msgid "Justified"
+msgstr "Justerat"
+
+#: SD_PDF_Template_Customizer.php:470
+msgid "Latest activity"
+msgstr "Senaste aktivitet"
+
+#: classes/Template_Field.php:1184
+msgid "Left"
+msgstr "Vänster"
+
+#: classes/Template_Field.php:588
+msgid "Line of text"
+msgstr "Textrad"
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:546
+#: classes/SD_PDF_Template_Customizer_Customizations.php:634
+msgid "Loading image..."
+msgstr "Laddar bild..."
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:360
+msgid "Make editable"
+msgstr "Gör redigerbar"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:101
+#: classes/SD_PDF_Template_Customizer_Templates.php:262
+msgid "Manage fields"
+msgstr "Hantera fält"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:100
+msgid "Managing template fields"
+msgstr "Hanterar mallfält"
+
+#: classes/Template_Field.php:169
+#: classes/Template_Field.php:177
+msgid "Measured in mm"
+msgstr "Mäts i mm"
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:293
+msgid "Message"
+msgstr "Meddelande"
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:40
+#: classes/SD_PDF_Template_Customizer_Moderation.php:41
+msgid "Moderation"
+msgstr "Moderering"
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:58
+msgid "Moderation overview"
+msgstr "Modereringsöversikt"
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:68
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:142
+msgid "Moderators"
+msgstr "Moderatorer"
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:391
+#: classes/SD_PDF_Template_Customizer_Customizations.php:456
+#: classes/SD_PDF_Template_Customizer_Moderation.php:156
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:200
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:243
+#: classes/SD_PDF_Template_Customizer_Templates.php:360
+#: classes/SD_PDF_Template_Customizer_Templates.php:406
+#: classes/SD_PDF_Template_Customizer_Templates.php:679
+#: classes/Template_Field.php:129
+msgid "Name"
+msgstr "Namn"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:482
+#, php-format
+msgid "New template created: %s"
+msgstr "Ny mall skapad: %s"
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:176
+msgid "No ID specified."
+msgstr "Ingen ID angavs."
+
+#: classes/Template_Field.php:1195
+msgid "No font"
+msgstr "Inget typsnitt"
+
+#: classes/Template_Field.php:448
+msgid "No image uploaded"
+msgstr "Ingen bild har laddats upp"
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:152
+msgid "No one has created any customizations yet."
+msgstr "Ingen har skapat några anpassningar än."
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:444
+msgid "No source PDF selected"
+msgstr "Ingen källPDF angiven"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:425
+msgid "No template group"
+msgstr "Ingen mallgrupp"
+
+#: SD_PDF_Template_Customizer.php:377
+#: classes/SD_PDF_Template_Customizer_Customizations.php:108
+#: classes/SD_PDF_Template_Customizer_Moderation.php:59
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:54
+#: classes/SD_PDF_Template_Customizer_Templates.php:76
+msgid "Overview"
+msgstr "Översikt"
+
+#: SD_PDF_Template_Customizer.php:351
+#: classes/SD_PDF_Template_Customizer_Customizations.php:258
+msgid "PDF"
+msgstr "PDF"
+
+#: SD_PDF_Template_Customizer.php:178
+#: SD_PDF_Template_Customizer.php:179
+msgid "PDF Template Customizer"
+msgstr "Anpassade PDF-mallar"
+
+#: classes/Template_Field.php:926
+msgid "Page"
+msgstr "Sida"
+
+#: classes/Template_Field.php:1097
+#, php-format
+msgid "Page %s, x,y: (%s, %s) w: %s, h: %s"
+msgstr "Sida %s, x,y: (%s, %s) b: %s, h: %s"
+
+#: classes/Template_Field.php:1228
+#, php-format
+msgid "Page %s, x,y: (%s, %s) w: %s, h: %s, j: %s, color: %s"
+msgstr "Sida %s, x,y: (%s, %s) b: %s, h: %s, j: %s, färg: %s"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:856
+msgid "Placement ID"
+msgstr "PlaceringsID"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:833
+msgid "Placements"
+msgstr "Placeringar"
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:122
+#: classes/SD_PDF_Template_Customizer_Customizations.php:265
+#: classes/SD_PDF_Template_Customizer_Templates.php:106
+#: classes/SD_PDF_Template_Customizer_Templates.php:254
+#: classes/SD_PDF_Template_Customizer_Templates.php:718
+msgid "Preview"
+msgstr "Förhandsgranskning"
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:266
+msgid "Preview PDF as image"
+msgstr "Förhandsgranska PDF:en som bild"
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:121
+msgid "Preview customization"
+msgstr "Förhandsgranska anpassningen"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:105
+msgid "Preview template"
+msgstr "Förhandsgranska mallen"
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:293
+msgid "Preview the original template"
+msgstr "Förhandsgranska originalmallen"
+
+#: SD_PDF_Template_Customizer.php:483
+msgid "Quick guide"
+msgstr "Snabbguide"
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:336
+msgid "Redo"
+msgstr "Gör om"
+
+#: SD_PDF_Template_Customizer.php:290
+msgid "Remove PDF annotations"
+msgstr "Ta bort PDF-anteckningar"
+
+#: SD_PDF_Template_Customizer.php:289
+msgid "Remove the PDF annotations from generated files. Used for sending PDFs to print24.com."
+msgstr "Ta bort PDF-anteckningar från de skapade filerna. Används när man vill skicka PDF:erna till print24.se för utskrift."
+
+#: classes/Template_Field.php:411
+#, php-format
+msgid "Remove the uploaded image: %s%s%s"
+msgstr "Ta bort den uppladdade bilden: %s%s%s"
+
+#: classes/Template_Field.php:1185
+msgid "Right"
+msgstr "Höger"
+
+#: SD_PDF_Template_Customizer.php:315
+msgid "Save settings"
+msgstr "Spara inställningar"
+
+#: SD_PDF_Template_Customizer.php:305
+msgid "See all customizations"
+msgstr "Visa alla anpassningar"
+
+#: SD_PDF_Template_Customizer.php:297
+msgid "See the plugin"
+msgstr "Se tillägget"
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:347
+msgid "Select the users which will moderate all the customizations for the templates placed in this group."
+msgstr "Välj vilka användare kommer att få moderera anpassningarna som skapas av mallarna i den här gruppen."
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:383
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:199
+#: classes/SD_PDF_Template_Customizer_Templates.php:346
+#: classes/SD_PDF_Template_Customizer_Templates.php:678
+msgid "Selected"
+msgstr "Vald"
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:309
+msgid "Send back to user for editing"
+msgstr "Skicka tillbaka till användaren för redigering"
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:565
+msgid "Send for approval"
+msgstr "Skicka för godkännande"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:254
+#: classes/SD_PDF_Template_Customizer_Templates.php:300
+msgid "Show a preview of this template"
+msgstr "Visa en förhandsgranskning av mallen"
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:163
+msgid "Showing customizations in group:"
+msgstr "Visar anpassningar i mallgruppen:"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:132
+#: classes/SD_PDF_Template_Customizer_Templates.php:141
+msgid "Showing templates in group:"
+msgstr "Visar mallar i gruppen:"
+
+#: classes/Template_Field.php:1204
+msgid "Size of the font in points."
+msgstr "Typsnittstorlek i punkter."
+
+#: SD_PDF_Template_Customizer.php:491
+msgid "Some templates require moderation before being allowed to be downloaded / viewed as a PDF."
+msgstr "Vissa mallar kräver moderering innan de får laddas hem / visas som PDF."
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:430
+msgid "Source PDF"
+msgstr "KällPDF"
+
+#: SD_PDF_Template_Customizer_Base.php:414
+msgid "Super admin"
+msgstr "Super admin"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:201
+#, php-format
+msgid "Template <em>%s</em> deleted."
+msgstr "Mallen <em>%s</em> har tagits bort."
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:210
+#, php-format
+msgid "Template created %s"
+msgstr "Mall skapad %s"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:219
+#, php-format
+msgid "Template created! %s"
+msgstr "Mall skapad! %s"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:572
+#, php-format
+msgid "Template field <em>%s</em> deleted."
+msgstr "Mallfältet <em>%s</em> har tagits bort."
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:581
+#, php-format
+msgid "Template field created %s"
+msgstr "Mallfält skapat %s"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:586
+msgid "Template field created!"
+msgstr "Mallfält har skapats!"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:423
+msgid "Template group"
+msgstr "Mallgrupp"
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:98
+#, php-format
+msgid "Template group created %s"
+msgstr "Mallgrupp skapad %s"
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:105
+#, php-format
+msgid "Template group created! %s"
+msgstr "Mallgruppen har skapats! %s"
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:67
+msgid "Template group moderators"
+msgstr "Moderatorer för mallgruppen"
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:53
+msgid "Template group overview"
+msgstr "Översikt över mallgrupper"
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:35
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:36
+msgid "Template groups"
+msgstr "Mallgrupper"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:75
+msgid "Template overview"
+msgstr "Mallöversikt"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:56
+#: classes/SD_PDF_Template_Customizer_Templates.php:57
+msgid "Templates"
+msgstr "Mallar"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:698
+msgid "Text area"
+msgstr "Textruta"
+
+#: classes/Template_Field.php:791
+#, php-format
+msgid "Text area. Font: %s, size %s, color %s."
+msgstr "Textruta. Typsnitt: %s, storlek %s, färg %s."
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:699
+msgid "Text field"
+msgstr "Textfält"
+
+#: classes/Template_Field.php:738
+#, php-format
+msgid "Text field. Font: %s, size %s, color %s."
+msgstr "Textfält. Typsnitt: %s, storlek %s, färg %s."
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:498
+msgid "The customization has been updated!"
+msgstr "Anpassningen har uppdaterats!"
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:338
+msgid "The customization is not acceptable and must be edited before being accepted."
+msgstr "Anpassningen är inte acceptabel och måste redigeras om innan den kan godkännas."
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:951
+msgid "The following fields can be modified:"
+msgstr "Följande fält kan ändras:"
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:150
+#, php-format
+msgid "The group has %s moderators."
+msgstr "Gruppen har %s moderatorer."
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:268
+msgid "The message could not be sent to the user. Please try again."
+msgstr "Meddelandet kunde inte skickas till användaren. Var god försök igen senare."
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:246
+msgid "The message was sent to the user! The moderation request has been deleted and you can now go back to the moderation overview."
+msgstr "Meddelandet skickades till användaren! Modereringsbegäran har tagits bort och du kan nu återgå till modereringsöversikten."
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:235
+msgid "The moderator left you this message:"
+msgstr "Moderatorn ville meddela dig följande:"
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:316
+msgid "The moderators for this template group have been updated!"
+msgstr "Moderatorerna för mallgruppen har uppdaterats!"
+
+#: classes/Template_Field.php:130
+msgid "The name of the field, as displayed to the user."
+msgstr "Fältet namn, som visas för användaren."
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:666
+msgid "The settings below were used to create this customization."
+msgstr "Värdena i fälten nedan användes för att skapa anpassningen."
+
+#: SD_PDF_Template_Customizer.php:329
+msgid "The settings have been updated."
+msgstr "Inställningarna har uppdaterats."
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:799
+msgid "The template field has been updated!"
+msgstr "Fältet har uppdaterats!"
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:261
+msgid "The template group has been updated!"
+msgstr "Mallgruppen har uppdaterats!"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:467
+msgid "The template has been updated!"
+msgstr "Mallen har uppdaterats!"
+
+#: SD_PDF_Template_Customizer.php:487
+msgid "The templates are available in the templates menu. Browse the template groups and then preview a template to see it in a larger format."
+msgstr "Mallarna finns i mallmenyn. Bläddra bland mallarna och välj en för att förhandsgranska den i större format."
+
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:114
+msgid "There are no template groups available."
+msgstr "Det finns inga mallgrupper."
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:309
+msgid "This customization has not yet been approved."
+msgstr "Anpassningen har inte godkänts än."
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:422
+msgid "This is a copy of the mail sent to the moderator."
+msgstr "Detta är en kopia på mejlet som skickades till moderatorn."
+
+#: SD_PDF_Template_Customizer.php:280
+msgid "This is the signature text that is appended to all outgoing e-mails."
+msgstr "Signaturtexten läggs till i alla skickade e-postmeddelanden."
+
+#: SD_PDF_Template_Customizer.php:485
+msgid "This plugin allows users to create custom, printable, PDFs from admin-designed templates."
+msgstr "Tilläggett låter användare att skapa anpassande, utskriftsvänliga PDF:er från mallar som admin har skapat."
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:316
+#, php-format
+msgid "This template is currently broken. Please inform the administrator that the source PDF for template %s is missing!"
+msgstr "Mallen är sönder. Var god informera administratören att källPDF:en för mallen %s saknas!"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:518
+msgid "This will inform the users visiting the main menu of SD PDF Template Customizer that there is a new template available for use."
+msgstr "Detta kommer att informera användarna som besöker tilläggets huvudmeny att det har skapats en ny mall."
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:392
+#: classes/SD_PDF_Template_Customizer_Moderation.php:157
+#: classes/SD_PDF_Template_Customizer_Templates.php:361
+msgid "Thumbnail"
+msgstr "Tumnagel"
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:323
+#: classes/SD_PDF_Template_Customizer_Moderation.php:124
+#: classes/SD_PDF_Template_Customizer_Templates.php:287
+#: classes/SD_PDF_Template_Customizer_Templates.php:728
+#: classes/SD_PDF_Template_Customizer_Templates.php:945
+#, php-format
+msgid "Thumbnail image should be seen here"
+msgstr "Tumnagelbilden bör synas här"
+
+#: SD_PDF_Template_Customizer.php:473
+msgid "Timestamp"
+msgstr "Tid"
+
+#: classes/Template_Field.php:586
+msgid "Type"
+msgstr "Typ"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:694
+msgid "Type of field to create"
+msgstr "Vad för sorts fält ska skapas"
+
+#: classes/Template_Field.php:585
+msgid "Type of text input."
+msgstr "Typ av textfält."
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:161
+#: classes/SD_PDF_Template_Customizer_Templates.php:132
+#: classes/SD_PDF_Template_Customizer_Templates.php:133
+#: classes/SD_PDF_Template_Customizer_Templates.php:349
+msgid "Uncategorized"
+msgstr "Okategoriserad"
+
+#: SD_PDF_Template_Customizer.php:228
+msgid "Uninstall"
+msgstr "Avinstallera"
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:527
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:274
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:340
+#: classes/SD_PDF_Template_Customizer_Templates.php:491
+#: classes/SD_PDF_Template_Customizer_Templates.php:895
+msgid "Update"
+msgstr "Uppdatera"
+
+#: classes/SD_PDF_Template_Customizer_Templates.php:498
+msgid "Update activity log"
+msgstr "Uppdatera aktivitetslogg"
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:423
+#, php-format
+msgid "User %s has created a new customization, <em>%s</em> from the template <em>%s</em>, that is awaiting moderation. Please log in and review the request."
+msgstr "Användaren %s har skapat en ny anpassning, <em>%s</em> från mallen <em>%s</em>, som väntar på godkännande. Var god logga in och kontrollera anpassningen."
+
+#: SD_PDF_Template_Customizer.php:296
+msgid "User level needed to access the plugin."
+msgstr "Användarnivå som krävs för att komma åt tillägget."
+
+#: SD_PDF_Template_Customizer.php:304
+msgid "User level needed to see all customizations, not just the user's own."
+msgstr "Användarnivå som krävs för att se samtliga anpassningar, inte bara användarens egna."
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:68
+#: classes/SD_PDF_Template_Customizer_Moderation.php:109
+msgid "View"
+msgstr "Visa"
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:67
+msgid "View moderation request"
+msgstr "Visa modereringsbegäran"
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:110
+msgid "View this customization"
+msgstr "Visa den här anpassningen"
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:577
+msgid "When you have finished editing and previewing the customization, you can request that a moderator approves it. This will disable any further editing."
+msgstr "När du har redigerat anpassningen färdigt, kan du skicka en modereringsbegäran till en moderator. Detta kommer att låsa anpassningen för vidare redigering."
+
+#: classes/Template_Field.php:192
+#: classes/Template_Field.php:964
+msgid "Width"
+msgstr "Bredd"
+
+#: classes/Template_Field.php:965
+msgid "Width of object on page, in mm"
+msgstr "Objektets bredd, i mm"
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:356
+#: classes/SD_PDF_Template_Customizer_Template_Groups.php:171
+#: classes/SD_PDF_Template_Customizer_Templates.php:315
+#: classes/SD_PDF_Template_Customizer_Templates.php:649
+msgid "With the selected rows"
+msgstr "Med de valda raderna"
+
+#: classes/Template_Field.php:938
+msgid "X"
+msgstr "X"
+
+#: classes/Template_Field.php:170
+msgid "X offset"
+msgstr "X-placering"
+
+#: classes/Template_Field.php:939
+msgid "X position on page in mm"
+msgstr "X-placeringen på sidan i mm"
+
+#: classes/Template_Field.php:951
+msgid "Y"
+msgstr "Y"
+
+#: classes/Template_Field.php:178
+msgid "Y offset"
+msgstr "Y-placering"
+
+#: classes/Template_Field.php:952
+msgid "Y position on page in mm"
+msgstr "Y-placering på sidan i mm"
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:194
+msgid "You have no moderation rights for this request."
+msgstr "Du får inte moderera den här anpassningen."
+
+#: classes/SD_PDF_Template_Customizer_Customizations.php:154
+msgid "You have not created any customizations yet. Browse the templates for a suitable template from which to create a customization."
+msgstr "Du har inte skapat några anpassade PDF:er än. Bläddra bland mallarna och välj en passande mall att utgå ifrån."
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:222
+#, php-format
+msgid "Your customization, %s, must be edited!"
+msgstr "Din anpassning, %s, måste redigeras!"
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:216
+#, php-format
+msgid "Your customization, %s, was accepted!"
+msgstr "Din anpassning, %s, godkändes!"
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:228
+#, php-format
+msgid "Your customization, %s, was denied!"
+msgstr "Din anpassning, %s, nekades!"
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:217
+#, php-format
+msgid "Your customization, <em>%s</em>, was accepted. You can now log in and print the customized PDF!"
+msgstr "Din anpassning, <em>%s</em>, godkändes. Du kan nu logga in och skriva ut den anpassade PDF:en!"
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:229
+#, php-format
+msgid "Your customization, <em>%s</em>, was denied and has been removed from the database."
+msgstr "Din anpassning, <em>%s</em>, har nekats och därmed tagits bort från databasen."
+
+#: classes/SD_PDF_Template_Customizer_Moderation.php:223
+#, php-format
+msgid "Your customization, <em>%s</em>, was not acceptable and must be edited before being accepted."
+msgstr "Din anpassning, <em>%s</em>, blev inte accepterad och måste redigeras innan den kan godkännas."
+
+#~ msgid "All customizations"
+#~ msgstr "Alla anpassningar"
+
+#~ msgid "Your customizations"
+#~ msgstr "Dina anpassningar"
+
+#~ msgid "Created: <em>%s</em> from the template <em>%s</em>"
+#~ msgstr "Skapades <em>%s</em> från mallen <em>%s</em>"
+
+#~ msgid "Created by %s"
+#~ msgstr "Skapad av %s"
+
+#~ msgid "Created: %s"
+#~ msgstr "Skapat: %s"
+
+#~ msgid "Template created!"
+#~ msgstr "Mallen har skapats!"
+
+#~ msgid "Template group created!"
+#~ msgstr "Mallgruppen har skapats!"
